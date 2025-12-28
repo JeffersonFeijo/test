@@ -1,0 +1,5 @@
+{
+  "name": "Minecraft Addon Creator Pro",
+  "description": "A professional-grade Minecraft Bedrock Addon creator with built-in JavaScript editor for @minecraft/server API and AI-powered script generation.",
+  "requestFramePermissions": []
+}
